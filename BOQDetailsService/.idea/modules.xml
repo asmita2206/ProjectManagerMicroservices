@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BOQDetailsService.iml" filepath="$PROJECT_DIR$/.idea/BOQDetailsService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BOQDetailsService/boqdetails.iml" filepath="$PROJECT_DIR$/BOQDetailsService/boqdetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boqdetails.iml" filepath="$PROJECT_DIR$/boqdetails.iml" />
     </modules>
   </component>
 </project>
