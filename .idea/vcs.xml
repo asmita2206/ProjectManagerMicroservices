@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BOQDetailsService/BOQDetailsService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChallanService/ChallanService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InquiryDetailsService/InquiryDetailsService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InquiryService/InquiryService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InventoryService/InventoryService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProjectDefinitionService/ProjectDefinitionService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProjectDetailsService/projectDetailsService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PurchaseOrderService/PurchaseOrderService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TaxInvoiceService/TaxInvoiceService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UserManagementService/UserManagementService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VendorService/VendorService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/BOQDetailsService/BOQDetailsService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/ChallanService/ChallanService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/InquiryDetailsService/InquiryDetailsService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/InquiryService/InquiryService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/InventoryService/InventoryService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/ProjectDefinitionService/ProjectDefinitionService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/ProjectDetailsService/projectDetailsService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/PurchaseOrderService/PurchaseOrderService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/TaxInvoiceService/TaxInvoiceService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/UserManagementService/UserManagementService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/VendorService/VendorService" vcs="Git" />
+  </component>
+</project>

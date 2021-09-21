@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BOQDetailsService/BOQDetailsService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BOQDetailsService/BOQDetailsService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallanService/ChallanService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallanService/ChallanService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InquiryDetailsService/InquiryDetailsService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InquiryDetailsService/InquiryDetailsService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InquiryService/InquiryService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InquiryService/InquiryService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InventoryService/InventoryService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InventoryService/InventoryService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProjectDefinitionService/ProjectDefinitionService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProjectDefinitionService/ProjectDefinitionService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProjectDetailsService/projectDetailsService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProjectDetailsService/projectDetailsService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PurchaseOrderService/PurchaseOrderService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PurchaseOrderService/PurchaseOrderService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TaxInvoiceService/TaxInvoiceService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TaxInvoiceService/TaxInvoiceService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserManagementService/UserManagementService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VendorService/VendorService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
